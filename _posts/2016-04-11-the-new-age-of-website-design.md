@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T08:56:13.947Z'
-dateModified: '2016-04-17T08:56:13.388Z'
+datePublished: '2016-04-17T09:04:36.615Z'
+dateModified: '2016-04-17T09:04:35.069Z'
 title: The New Age of Website Design
 author: []
 sourcePath: _posts/2016-04-11-the-new-age-of-website-design.md
@@ -19,12 +18,13 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: the-new-age-of-website-design/index.html
 _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f699c38b-284e-4dfb-b6c4-74e114cdefee.jpg)
 
-The New Age of Website Design
+## The New Age of Website Design
 
 Why do you need a website?
 
@@ -87,3 +87,4 @@ check the internet to get in contact with you. If your website gives a clear
 and concise message, answers people´s questions in advance and is user friendly,
 then potential clients prefer dealing with you instead of your competitors.
 This will increase your client base and revenue.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e496aa6a-78dd-41c2-a0e8-7df595f0a522.jpg)
