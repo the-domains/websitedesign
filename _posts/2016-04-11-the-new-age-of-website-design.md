@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T08:50:25.741Z'
-dateModified: '2016-04-17T08:50:19.479Z'
+datePublished: '2016-04-17T08:56:13.947Z'
+dateModified: '2016-04-17T08:56:13.388Z'
 title: The New Age of Website Design
 author: []
 sourcePath: _posts/2016-04-11-the-new-age-of-website-design.md
@@ -22,6 +22,10 @@ publisher:
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f699c38b-284e-4dfb-b6c4-74e114cdefee.jpg)
+
+The New Age of Website Design
+
 Why do you need a website?
 
 You don´t, but a website is not for you it is for your customers.
