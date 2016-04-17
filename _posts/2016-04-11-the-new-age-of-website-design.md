@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T09:04:36.615Z'
-dateModified: '2016-04-17T09:04:35.069Z'
+datePublished: '2016-04-17T09:07:12.995Z'
+dateModified: '2016-04-17T09:06:30.064Z'
 title: The New Age of Website Design
 author: []
 sourcePath: _posts/2016-04-11-the-new-age-of-website-design.md
