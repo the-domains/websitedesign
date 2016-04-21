@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The New Age of Websites]]></title>
+        <description><![CDATA[The New Age of Websites]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Apr 2016 15:32:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The New Age of Website Design]]></title>
+            <description><![CDATA[<article><h1>The New Age of Website Design</h1><p>Why do you need a website?</p></article>]]></description>
+            <link>undefinedthe-new-age-of-website-design/index.html</link>
+            <guid isPermaLink="false">8a760892-dfea-4bce-b873-f2ec0199f93f</guid>
+            <pubDate>Thu, 21 Apr 2016 15:32:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
