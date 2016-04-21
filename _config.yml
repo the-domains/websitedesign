@@ -1,7 +1,7 @@
 name: Websitedesign
 favicon: null
 layout_spectrum: 0.99368
-typography_spectrum: 0.41968
+typography_spectrum: 0.74639
 title: The New Age of Websites
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#cdbf9c'
     - '#6795ad'
   brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.8125
+  lightness: 0.5625
+  saturation: 0.6875
   rhythmicContrast: 0.75
 purpose: []
