@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You don´t, but a website is not for you it is for your customers. Better ask why do they need one? Nowadays consumers want to check your business first before they consider doing business with you. They want to know more details about your product or service before stepping into your shop or business. A website gives them a sense of control and the assurance to handle with you confidently about what you can provide for them. In this way it also gives them the feeling that they can assess how knowledgeable you are about your product or service.'
-datePublished: '2016-04-21T16:43:11.163Z'
-dateModified: '2016-04-21T16:42:54.799Z'
+datePublished: '2016-04-21T20:38:37.173Z'
+dateModified: '2016-04-21T20:38:30.138Z'
 title: Why do you need a website?
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-11-the-new-age-of-website-design.md
 published: true
 authors: []
@@ -22,6 +24,8 @@ url: the-new-age-of-website-design/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d499d1-3501-4624-ae28-5a4e279a9cb0.jpg)
+
 ## Why do you need a website?
 
 You don´t, but a website is not for you it is for your customers. Better ask why do they need one? Nowadays consumers want to check your business first before they consider doing business with you. They want to know more details about your product or service before stepping into your shop or business. A website gives them a sense of control and the assurance to handle with you confidently about what you can provide for them. In this way it also gives them the feeling that they can assess how knowledgeable you are about your product or service.
