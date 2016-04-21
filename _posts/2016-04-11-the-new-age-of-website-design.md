@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You don´t, but a website is not for you it is for your customers. Better ask why do they need one? Nowadays consumers want to check your business first before they consider doing business with you. They want to know more details about your product or service before stepping into your shop or business. A website gives them a sense of control and the assurance to handle with you confidently about what you can provide for them. In this way it also gives them the feeling that they can assess how knowledgeable you are about your product or service.'
-datePublished: '2016-04-21T16:41:30.617Z'
-dateModified: '2016-04-21T16:37:14.645Z'
+datePublished: '2016-04-21T16:43:11.163Z'
+dateModified: '2016-04-21T16:42:54.799Z'
 title: Why do you need a website?
 author: []
 sourcePath: _posts/2016-04-11-the-new-age-of-website-design.md
@@ -22,8 +22,6 @@ url: the-new-age-of-website-design/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac6351212c5a032454d43e2d58471c720b8bddef.jpg)
-
 ## Why do you need a website?
 
 You don´t, but a website is not for you it is for your customers. Better ask why do they need one? Nowadays consumers want to check your business first before they consider doing business with you. They want to know more details about your product or service before stepping into your shop or business. A website gives them a sense of control and the assurance to handle with you confidently about what you can provide for them. In this way it also gives them the feeling that they can assess how knowledgeable you are about your product or service.
@@ -51,4 +49,3 @@ The minute you start a business, have a hobby, look for a job, or share an inter
 How would your website be beneficial to you?
 
 In previous generations for people to find you they just had to look in a telephone book or the yellow pages. In this generation people check the internet to get in contact with you. If your website gives a clear and concise message, answers people´s questions in advance and is user friendly, then potential clients prefer dealing with you instead of your competitors. This will increase your client base and revenue.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e496aa6a-78dd-41c2-a0e8-7df595f0a522.jpg)
