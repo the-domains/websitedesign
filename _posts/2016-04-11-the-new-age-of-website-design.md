@@ -3,29 +3,26 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'You don´t, but a website is not for you it is for your customers. Better ask why do they need one? Nowadays consumers want to check your business first before they consider doing business with you. They want to know more details about your product or service before stepping into your shop or business. A website gives them a sense of control and the assurance to handle with you confidently about what you can provide for them. In this way it also gives them the feeling that they can assess how knowledgeable you are about your product or service.'
-datePublished: '2016-04-21T20:38:37.173Z'
-dateModified: '2016-04-21T20:38:30.138Z'
-title: Why do you need a website?
+datePublished: '2016-05-10T13:01:31.745Z'
+dateModified: '2016-05-10T13:01:05.033Z'
+title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-11-the-new-age-of-website-design.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+starred: false
 url: the-new-age-of-website-design/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d499d1-3501-4624-ae28-5a4e279a9cb0.jpg)
-
 ## Why do you need a website?
 
 You don´t, but a website is not for you it is for your customers. Better ask why do they need one? Nowadays consumers want to check your business first before they consider doing business with you. They want to know more details about your product or service before stepping into your shop or business. A website gives them a sense of control and the assurance to handle with you confidently about what you can provide for them. In this way it also gives them the feeling that they can assess how knowledgeable you are about your product or service.
@@ -53,3 +50,4 @@ The minute you start a business, have a hobby, look for a job, or share an inter
 How would your website be beneficial to you?
 
 In previous generations for people to find you they just had to look in a telephone book or the yellow pages. In this generation people check the internet to get in contact with you. If your website gives a clear and concise message, answers people´s questions in advance and is user friendly, then potential clients prefer dealing with you instead of your competitors. This will increase your client base and revenue.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d499d1-3501-4624-ae28-5a4e279a9cb0.jpg)
